@@ -1,24 +1,38 @@
 # README
+##whats-in-my-fridge
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Whats in my fridge is a food suggestion application that will take the contents of whats in users kitchen and suggest recipes from multiple regions.
 
-Things you may want to cover:
+##Getting Started
+This is how you can get our application up and running on your local machine...
 
-* Ruby version
+##Software needed
+Software that you need to install
 
-* System dependencies
+ruby ide/or use cloud ide
+`etc...`
 
-* Configuration
+`...`
 
-* Database creation
+##How to install
+A steps on how to install software needed to get a dev environment running.
 
-* Database initialization
+`example...
+blah blah`
 
-* How to run the test suite
+`more examples`
 
-* Services (job queues, cache servers, search engines, etc.)
+##Tests?
+how to run automated tests
 
-* Deployment instructions
+##Deployment
+This is how you deploy on a live system...
 
-* ...
+##Built With
+links and what blah blah blah
+
+##Authors
+* Raphael - (git page)?
+* Sunkyeong - ( git page)?
+* Tania - (git page)?
+* Kiana - (git page)?
